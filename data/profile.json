@@ -8,32 +8,32 @@
   "skills": {
     "hardSkills": [
       {
-        "nome": "JavaScript",
-        "logo": "TODO"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/IGORAOLIV/js-developer-portfolio/projeto-base/data/imgs/js.png"
       },
       {
-        "nome": "TypeScript",
-        "logo": "TODO"
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/IGORAOLIV/js-developer-portfolio/projeto-base/data/imgs/ts.png"
       },
       {
-        "nome": "Angular",
-        "logo": "TODO"
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/IGORAOLIV/js-developer-portfolio/projeto-base/data/imgs/angular.png"
       },
       {
-        "nome": "HTML",
-        "logo": "TODO"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/IGORAOLIV/js-developer-portfolio/projeto-base/data/imgs/html.png"
       },
       {
-        "nome": "CSS",
-        "logo": "TODO"
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/IGORAOLIV/js-developer-portfolio/projeto-base/data/imgs/css.png"
       },
       {
-        "nome": "Figma",
-        "logo": "TODO"
+        "name": "Figma",
+        "logo": "https://raw.githubusercontent.com/IGORAOLIV/js-developer-portfolio/projeto-base/data/imgs/figma.png"
       },
       {
-        "nome": "Git",
-        "logo": "TODO"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/IGORAOLIV/js-developer-portfolio/projeto-base/data/imgs/git.png"
       }
     ],
     "softSkills": [
