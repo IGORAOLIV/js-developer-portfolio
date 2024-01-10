@@ -135,9 +135,49 @@
   ],
   "professionalExperience": [
     {
-      "name": "Education Tech Lead ",
-      "period": "",
-      "description": ""
+      "name": "Transição de carreira (Pausa na carreira)",
+      "period": "abr de 2021 - o momento",
+      "description": "Depois de mais de 10 anos trabalhando como gerente de restaurantes, decidi fazer uma pausa na minha carreira na área de gastronomia para me dedicar a uma nova paixão: o desenvolvimento web. Foi uma decisão difícil, mas sabia que era hora de buscar novos desafios e oportunidades. Estou atualmente em fase de transição, cursando faculdade de ADS e me dedicando a cursos intensivos e bootcamps voltados para Front-End e Desenvolvimento Web. Tem sido uma jornada emocionante, mas também desafiadora, já que estou aprendendo uma nova linguagem, trabalhando com novas ferramentas e desenvolvendo novas habilidades. Apesar de ter deixado para trás minha carreira na gastronomia, acredito que minhas habilidades como gerente de restaurantes foram muito valiosas e transferíveis para minha nova área. Sou disciplinado, organizado, eficiente e capaz de trabalhar sob pressão - habilidades que são essenciais tanto na cozinha quanto no desenvolvimento web. Ainda estou no início da minha jornada como desenvolvedor web, mas estou animado com o que o futuro reserva. Acredito que essa pausa na minha carreira me permitirá crescer como profissional e expandir minhas habilidades para além da gastronomia. Estou ansioso para ver onde essa nova aventura me levará e estou animado para enfrentar todos os desafios que virão pela frente."
+    },
+    {
+      "name": "Despachante imobiliário (Autônomo)",
+      "period": "abr de 2021 - o momento",
+      "description": "Presto serviços e soluções para documentação imobiliária."
+    },
+    {
+      "name": "Gerente de restaurante - Nago Sushi",
+      "period": "nov de 2019 - abr de 2021",
+      "description": "Nago Sushi trabalha exclusivamente com delivery em plataformas digitais e pelo aplicativo próprio, exerci o cargo de gerente exercendo as funções administrativas e de atendimento ao cliente"
+    },
+    {
+      "name": "Gerente de negócios - Burger King do Brasil",
+      "period": "set de 2015 - nov de 2017",
+      "description": "Responsável pela pesquisa de quadro econômico, político, social e cultural, para elaboração e implementação de planos de investimentos, racionalização e redução de custos;- Experiencia em controle de estoque (compras, inventario, previsão de sazonalidade, controle de custo e desperdício);- Responsável por gerenciamento, treinamento, qualificação, reconhecimento e promoção dos cargos de equipe com 32 colaboradores em 3 níveis de hierarquia;- Desenvolvimento e implementação de planos de marketing, efetuando ações nos pontos de venda, estabelecendo tipo, quantidade e prazos para plano de concretização da produção;- Gerenciamento de manutenção de equipamentos e estrutura;- Duas qualificações ouro na auditoria REV (auditoria de padrão internacional de segurança alimentar, lucratividade e padrão de marca)."
+    },
+    {
+      "name": "Supervisor de operações - Madero",
+      "period": "mar de 2015 - ago de 2015",
+      "description": "Controle de escala, gerenciamento de salão e bar, liderança de equipe de 16 colaboradores, atendimento ao cliente, gerenciamento de reservas, abertura e fechamento do estabelecimento."
+    },
+    {
+      "name": "Supervisor de operações - Yellow Restaurante",
+      "period": "nov de 2014 - abr de 2015",
+      "description": "Controle de estoque, compras, escala de funcionários, controle de qualidade, atendimento aos clientes, abertura e fechamento de caixa, controle da escala de limpeza e manutenção dentre outras tarefas da rotina do restaurante."
+    },
+    {
+      "name": "Gerente de restaurante - h3",
+      "period": "dez de 2012 - ago de 2013",
+      "description": "Responsável pelo controle de todas as rotinas administrativas que envolvem o bom funcionamento do local de trabalho, com foco na liderança de pessoas, planejamento de escalas de trabalho, solicitação de pedidos de compra, controle da qualidade dos serviços executados e produtos, gerenciamento de estoque;- Experiência na criação de procedimentos, com objetivo de organizar, planejar e inspecionar os serviços prestados por garçons, cozinheiros e demais integrantes da equipe operacional do setor de alimentação, controlando custos, estoques de alimentos e suprimentos, conferência de notas após a chegada de produtos e verificação da limpeza durante o expediente;- Conhecimentos no desenvolvimento de estratégias com objetivo de aumentar lucratividade e fidelizar mais clientes, através de estratégias de vendas de produtos e serviços e organização de pesquisas de satisfação do cliente;- Atuação no atendimento a reclamações relativas à qualidade dos alimentos e no atendimento a vendedores de alimentos e prestadores de serviços de rotina, além de implementar mudanças nas encomendas realizadas e calcular a oferta de alimentos de acordo com o estoque."
+    },
+    {
+      "name": "Gerente de alimentos e bebidas - Tribeca Bistro",
+      "period": "set de 2010 - jul de 2012",
+      "description": "Responsável pelo controle de todas as rotinas administrativas que envolvem o bom funcionamento do local de trabalho, com foco na liderança de pessoas, planejamento de escalas de trabalho, solicitação de pedidos de compra, controle da qualidade dos serviços executados e produtos, gerenciamento de estoque;- Experiência na criação de procedimentos, com objetivo de organizar, planejar e inspecionar os serviços prestados por garçons, cozinheiros e demais integrantes da equipe operacional do setor de alimentação, controlando custos, estoques de alimentos e suprimentos, conferência de notas após a chegada de produtos e verificação da limpeza durante o expediente;- Conhecimentos no desenvolvimento de estratégias com objetivo de aumentar lucratividade e fidelizar mais clientes, através de estratégias de vendas de produtos e serviços e organização de pesquisas de satisfação do cliente;- Atuação no atendimento a reclamações relativas à qualidade dos alimentos e no atendimento a vendedores de alimentos e prestadores de serviços de rotina, além de implementar mudanças nas encomendas realizadas e calcular a oferta de alimentos de acordo com o estoque."
+    },
+    {
+      "name": "Atendente - Posto Taquipe De Combustiveis",
+      "period": "jan de 2008 - fev de 2009",
+      "description": "Atendimento a clientes, controle de caixa e abastecimento de combustível."
     }
   ]
 }
