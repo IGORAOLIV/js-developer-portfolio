@@ -108,14 +108,29 @@
   ],
   "portfolio": [
     {
-      "nome": "Crie o seu NFT de Pokémon com Blockchain (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/formacao-blockchain-dio",
-      "certificado": "https://www.dio.me/certificate/34F1FBA1"
+      "name": "Trilha JavaScript Developer - Desafio Pokedex (DIO)",
+      "url": "https://github.com/IGORAOLIV/js-developer-pokedex",
+      "git": true
     },
     {
-      "nome": "App Nativo Sobre Futebol Feminino com Android Jetpack e Java (DIO)",
-      "gitHub": "https://github.com/digitalinnovationone/soccer-news-app",
-      "certificado": "https://www.dio.me/certificate/9A5090FC"
+      "name": "Trilha JavaScript Developer - Desafio Portifólio (DIO)",
+      "url": "https://github.com/IGORAOLIV/js-developer-portfolio",
+      "git": true
+    },
+    {
+      "name": "Trilha HTML Developer - Desafio Wikipedia (DIO)",
+      "url": "https://github.com/IGORAOLIV/trilha-html-modulo-3",
+      "git": true
+    },
+    {
+      "name": "Trilha HTML Developer - Desafio Clínica (DIO)",
+      "url": "https://github.com/IGORAOLIV/trilha-html-modulo-2",
+      "git": true
+    },
+    {
+      "name": "Trilha HTML Developer - Desafio Primeiro Website (DIO)",
+      "url": "https://github.com/IGORAOLIV/desafio01-html-dio",
+      "git": true
     }
   ],
   "experiencias": [
