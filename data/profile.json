@@ -45,20 +45,7 @@
       "Proatividade"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
-  ],
+  "languages": ["Português BR (Nativo)", "Ingles (Intermediário)"],
   "educacao": [
     {
       "nome": "dio.me",
